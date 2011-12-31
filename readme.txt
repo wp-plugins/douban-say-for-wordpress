@@ -31,7 +31,7 @@ my email is zhuxi910511@163.com, welcome to mail me.
 
 == Screenshots ==
 
-example.jpg
+trunk/example.jpg
 
 == Changelog ==
 = 0.1.3 =

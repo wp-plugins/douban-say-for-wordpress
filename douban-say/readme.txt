@@ -4,7 +4,7 @@ Donate link: http://icek.me/
 Tags: douban, information
 Requires at least: 2.8
 Tested up to: 3.2.1
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 
 Display the information of your douban say
 
@@ -31,8 +31,7 @@ my email is zhuxi910511@163.com, welcome to mail me.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to example.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/0.1/example.jpg` (or jpg, jpeg, gif)
+`/tags/0.1.2/example.jpg`
 
 == Changelog ==
 

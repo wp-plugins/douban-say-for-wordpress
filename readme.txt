@@ -4,7 +4,7 @@ Donate link: http://icek.me/
 Tags: douban, information
 Requires at least: 2.8
 Tested up to: 3.2.1
-Stable tag: 0.1.2
+Stable tag: 0.1.3
 
 Display the information of your douban say
 
@@ -34,6 +34,8 @@ my email is zhuxi910511@163.com, welcome to mail me.
 example.jpg
 
 == Changelog ==
+= 0.1.3 =
+* 加入到wordpress插件中心
 
 = 0.1.1 =
 * 加入豆瓣APIKEY，完成本页说明。

@@ -4,7 +4,7 @@ Donate link: http://icek.me/
 Tags: douban, information
 Requires at least: 2.8
 Tested up to: 3.2.1
-Stable tag: 0.1
+Stable tag: 0.1.1
 
 Display the information of your douban say
 

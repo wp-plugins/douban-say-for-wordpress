@@ -10,7 +10,7 @@ Display the information of your douban say
 
 == Description ==
 
-能显示自己豆瓣说的小插件，启用后在把“我的豆瓣说”小工具放到想要的位置，user改成自己的豆瓣id即可，实际效果请见我的blog的主页右上角小工具DOUBANSAY内容。 
+能显示自己豆瓣说的小插件，启用后在把“我的豆瓣说”小工具放到想要的位置，user改成自己的豆瓣id即可，实际效果请见我的blog(icek.me)的主页右上角小工具DOUBANSAY内容。 
 
 The widget can display the information of your douban say. the way to use is very sample. After active the plugin, you can find the widget "我的豆瓣说" and write you username in douban. Then you can show your douban say in your blog. 
 

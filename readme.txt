@@ -16,7 +16,7 @@ The widget can display the information of your douban say. the way to use is ver
 
 == Installation ==
 
-启用后在把“我的豆瓣说”小工具放到想要的位置，user改成自己的豆瓣id即可，实际效果请见我的blog的主页右上角小工具DOUBANSAY内容。 
+启用后在把“我的豆瓣说”小工具放到想要的位置，user改成自己的豆瓣id即可，实际效果请见我的blog(icek.me)的主页右上角小工具DOUBANSAY内容。 
 
 1. Activate the plugin through the 'Plugins' menu in WordPress
 2. Find the widget "我的豆瓣说" and write you username in douban.

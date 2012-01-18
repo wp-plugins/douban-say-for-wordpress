@@ -3,8 +3,8 @@ Contributors: zhuxi910511
 Donate link: http://icek.me/
 Tags: douban, information
 Requires at least: 2.8
-Tested up to: 3.2.1
-Stable tag: 0.1.4
+Tested up to: 3.3
+Stable tag: 0.1.6
 
 Display the information of your douban say
 

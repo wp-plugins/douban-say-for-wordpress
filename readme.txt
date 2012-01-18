@@ -34,6 +34,12 @@ my email is zhuxi910511@163.com, welcome to mail me.
 trunk/example.jpg
 
 == Changelog ==
+= 0.1.6 =
+* 添加自定义显示豆瓣广播条数功能
+
+= 0.1.5 =
+* 修复了一个严重的路径bug
+
 = 0.1.4 =
 * 修正了几个说明
 
